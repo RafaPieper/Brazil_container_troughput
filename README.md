@@ -58,6 +58,28 @@ Wang M, Guo X, She Y, Zhou Y, Liang M, Chen ZS (2024) Advancements in Deep Learn
 18.
 Gosasang V, Chandraprakaikul, W, Kiattisin S (2010) An Application of Neural Networks for Forecasting Container Throughput at Bangkok Port. In: International Conference of Wireless Networks (ICWN’10) ; (London, U.K.) : 2010.06.30-07.02 (ed) Proceedings of the World Congress on Engineering 2010. IAENG, Hong Kong
 19.
-Rashed Y, Meersman H, Van de Voorde E, Vanelslander T (2017) Short-term forecast of
+Rashed Y, Meersman H, Van de Voorde E, Vanelslander T (2017) Short-term forecast of container throughout: An ARIMA-intervention model for the port of Antwerp. Marit Econ Logist 19:749–764. https://doi.org/10.1057/mel.2016.8
+20.
+Nakashima M, Shibasaki R (2024) Can AIS data improve the short-term forecast of week-ly dry bulk cargo port throughput? - a machine-learning approach. Maritime Policy & Management 51:1788–1804. https://doi.org/10.1080/03088839.2023.2212264
+21.
+Gao Y, Chang D, Fang T, Fan Y (2019) The Daily Container Volumes Prediction of Stor-age Yard in Port with Long Short-Term Memory Recurrent Neural Network. Journal of Advanced Transportation 2019:5764602. https://doi.org/10.1155/2019/5764602
+22.
+Lee E, Kim D, Bae H (2021) Container Volume Prediction Using Time-Series Decomposi-tion with a Long Short-Term Memory Models. Applied Sciences 11:8995. https://doi.org/10.3390/app11198995
+23.
+Li Y, Li Z (2024) Research on Cargo Forecasting Based on ARIMA Time Series Forecast-ing and LSTM Models. Highlights in Business, Economics and Management 36:76–84. https://doi.org/10.54097/a4kxgv35
+24.
+Shankar S, Ilavarasan PV, Punia S, Singh SP (2019) Forecasting container throughput with long short-term memory networks. IMDS 120:425–441. https://doi.org/10.1108/IMDS-07-2019-0370
+25.
+Box GEP, Jenkins GM, Reinsel GC, Ljung GM (2015) Time Series Analysis: Forecasting and Control
+26.
+Nielsen A (2020) Practical Time Series Analysis. O’Reilly Media, Inc.
+27.
+Hochreiter S, Schmidhuber J (1997) Long Short-Term Memory. Neural Computation 9:1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735
+28.
+Bansal A, Balaji K, Lalani Z (2025) Temporal Encoding Strategies for Energy Time Series Prediction
+29.
+Bin F, He J (2023) A short-term photovoltaic power prediction model using cyclical en-coding and STL decomposition based on LSTM. In: 2023 3rd International Conference on Electronic Information Engineering and Computer Communication (EIECC). pp 260–266
+30.
+Hokmabad HN, Husev O, Belikov J (2025) Day-Ahead Solar Power Forecasting Using LightGBM and Self-Attention Based Encoder-Decoder Networks. IEEE Trans Sustain En-ergy 16:866–879. https://doi.org/10.1109/TSTE.2024.3486907
 
 
