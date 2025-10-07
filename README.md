@@ -35,6 +35,7 @@ Cabral AMR, Ramos FS (2018) EFFICIENCY CONTAINER PORTS IN BRAZIL: A DEA AND FDH 
 5.
 ANTAQ (2025) Recorde nos portos: setor aquaviário movimenta mais de 1,32 bi de tone-ladas em 2024. In: Agência Nacional de Transportes Aquaviários (ANTAQ). https://www.gov.br/antaq/pt-br/noticias/2025/
 recorde-nos-portos-setor-aquaviario-movimenta-mais-de-1-32-bi-de-toneladas-em-2024. Accessed 20 Mar 2025
+
 6.
 DP World and Maersk Sign Long-Term Agreement to Expand Maritime Services in Bra-zil. In: DP World and Maersk Sign Long-Term Agreement to Expand Maritime Services in Brazil. https://www.dpworld.com/news/releases/dp-world-and-maersk-sign-long-term-agreement-to-expand-maritime-services-in-brazil/. Accessed 24 Mar 2025
 
@@ -67,8 +68,6 @@ Rashed Y, Meersman H (2013) A Univariate Analysis: Short-term Forecasts of Conta
 
 16.
 García TR, Cancelas NG, Soler-Flores F (2014) The Artificial Neural Networks to Obtain Port Planning Parameters. Procedia - Social and Behavioral Sciences 162:168–177. https://doi.org/10.1016/j.sbspro.2014.12.197
-
-17
 
 17.
 Wang M, Guo X, She Y, Zhou Y, Liang M, Chen ZS (2024) Advancements in Deep Learning Techniques for Time Series Forecasting in Maritime Applications: A Compre-hensive Review. Information 15:507. https://doi.org/10.3390/info15080507
